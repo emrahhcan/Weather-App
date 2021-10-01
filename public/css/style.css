@@ -100,3 +100,11 @@ button {
         max-height: 300px;
     }
 }
+@media only screen and (max-height: 425px) {
+    .container {
+        margin-top: 0;
+    }
+    .box-container {
+        max-height: 280px;
+    }
+}
