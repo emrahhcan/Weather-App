@@ -92,3 +92,11 @@ button {
 .intel {
     flex: 1;
 }
+@media only screen and (max-height: 768px) {
+    .container {
+        margin-top: 20px;
+    }
+    .box-container {
+        max-height: 300px;
+    }
+}
