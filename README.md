@@ -2,7 +2,7 @@
 
 Weather App is prepared using NodeJS with Express along with Open Weather Map API
 
-[Click Here to Visit App]()
+[Click Here to Visit App](https://simple-weather-app.cyclic.app)
 
 ## How to Use
 
